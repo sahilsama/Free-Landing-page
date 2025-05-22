@@ -2,7 +2,8 @@
 
 A sleek, responsive landing page built with React and Tailwind CSS, featuring modern design principles and smooth animations.
 
-![Lyca Landing Page](public/preview.png)
+![image](https://github.com/user-attachments/assets/d0a32396-610c-40d6-8fa2-5a33679e185b)
+
 
 ## 🚀 Features
 
